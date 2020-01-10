@@ -17,6 +17,7 @@ margin-top: 10vh;
 height: 7vh;
 font-size: 5vh;
 margin-top: 25vh;
+text-align: center;
 }
 .text{float: left;
 	margin: 8vh 25vh;
@@ -26,8 +27,8 @@ margin-top: 25vh;
 .link{display: flex;
 	flex-direction: row;
 	position: absolute;
-	top: 4vh;
-	left: 175vh;
+	top: 8vh;
+	left: 160vh;
  }
 img{ position: absolute;
 	margin: 0vh;
@@ -35,3 +36,11 @@ img{ position: absolute;
 	top: 65vh;
 	left: 5vh;
  }
+ #a{background-color: green
+ }
+ #b{background-color: blue
+ }
+ a{border: solid;
+ 	margin: 0vh 1vh;
+ 	border-color: black;
+}

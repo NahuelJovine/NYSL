@@ -1,0 +1,58 @@
+*{margin: 0;
+position: relative;}
+.h1{font-size: 10vh;	
+margin: 0px;
+height: 10vh;
+position: relative;
+background-color: green;}
+header{width: 100%;
+height: 45vh;
+position: absolute;
+background-image: url("design2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: 10vh;
+
+}
+.h2{background-color: green;
+height: 7vh;
+font-size: 5vh;
+margin-top: 40vh;
+text-align: center;
+}
+img{ position: absolute;
+	margin: 0vh;
+	width: 7%;
+	top: 47vh;
+	right: 5vh;
+ }
+ .link{display: flex;
+	flex-direction: row;
+	position: absolute;
+	top: 8vh;
+	left: 145vh;
+ }
+  #a{background-color: green
+ }
+ #b{background-color: blue
+ }
+ a{border: solid;
+ 	margin: 0vh 1vh;
+ 	border-color: black;
+ }
+ .text{float: left;
+	margin-top: 8vh;
+	margin: 6vh;
+	width: 90vw;
+	font-size: 3vh;
+	background-color: #7FFF00;
+	opacity: .5;
+	
+	
+}
+#fondo{background-color: darkgreen;
+width: 100%;
+height: 400vh;
+background-repeat: no-repeat;
+background-size: cover;
+}
