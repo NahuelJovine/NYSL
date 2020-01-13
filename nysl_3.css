@@ -31,6 +31,7 @@
 			width: 7%;
 			top: 47vh;
 			right: 5vh;
+			
 		}
 		.link{display: flex;
 			flex-direction: row;
@@ -41,13 +42,13 @@
 		}
 		#a{background-color: green
 		}
-		#b{background-color: blue
-		}
+		
 		.f{border: solid;
 			margin: 0vh 1vh;
 			border-color: black;
 			color: white;
 			text-decoration: none;
+			background-color: blue
 		}
 		.text{float: left;
 			margin-top: 8vh;
@@ -55,7 +56,6 @@
 			width: 90vw;
 			font-size: 3vh;
 			background-color: limegreen;
-			
 			border: solid;
 		}
 		#fondo{background-color: darkgreen;
@@ -73,4 +73,4 @@
 			#mail{display: flex;
 				flex-direction: row;
 				justify-content: space-around;}
-		body{background-color: darkgreen;}
+		body{background-color: darkgreen}
