@@ -1,47 +1,49 @@
 *{margin: 0;
-	position: relative;}
+	position: relative;
+}
 
-	.h1{font-size: 10vh;	
-		margin: 0px;
-		height: 25vh;
-		position: relative;
+.h1{font-size: 10vh;	
+	margin: 0px;
+	height: 25vh;
+	position: relative;
 
-	}
-	header{width: 100%;
-		height: 25vh;
-		position: absolute;
-		background-image: url("design1.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
-		margin: 0px;
+}
+header{width: 100%;
+	height: 25vh;
+	position: absolute;
+	background-image: url("design1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px;
 
-	}
-	.link{float: left;
-		margin: 12vh 3vh;
-		font-size: 3vh;
-		width: 9vh;
-		margin-top: 4vh;
+}
+.link{float: left;
+	margin: 12vh 3vh;
+	font-size: 3vh;
+	width: 9vh;
+	margin-top: 4vh;
 
-	}
+}
 
-	.link>a{display: block;
-		margin-top: 5vh;}
+.link>a{display: block;
+	margin-top: 5vh;
+}
 
-		.text{float: left;
-			margin-top: 8vh;
-			margin: 6vh;
-			width: 85vw;
-			font-size: 3vh;
+.text{float: left;
+	margin-top: 8vh;
+	margin: 6vh;
+	width: 85vw;
+	font-size: 3vh;
 
-		}
-		.h2{background-color: green;
-			height: 7vh;
-			font-size: 5vh;
-			text-align: center;
-		}
-		img{ position: absolute;
-			margin: 0vh;
-			width: 7%;
-			top: 22vh;
-			right: 5vh;
-		}
+}
+.h2{background-color: green;
+	height: 7vh;
+	font-size: 5vh;
+	text-align: center;
+}
+img{ position: absolute;
+	margin: 0vh;
+	width: 7%;
+	top: 22vh;
+	right: 5vh;
+}
