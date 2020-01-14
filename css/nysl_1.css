@@ -1,3 +1,49 @@
-.h1{font-size: 10vh;
-	
-}	
+*{margin: 0;
+	position: relative;
+}
+
+.h1{font-size: 10vh;	
+	margin: 0px;
+	height: 25vh;
+	position: relative;
+
+}
+header{width: 100%;
+	height: 25vh;
+	position: absolute;
+	background-image: url("../img/design1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px;
+
+}
+.link{
+	display: flex;
+	flex-direction: column;
+position: absolute;
+top: 35vh;
+
+
+}
+
+.text{float: left;
+	margin-top: 8vh;
+	margin: 6vh;
+	width: 85vw;
+	font-size: 3vh;
+left: 25vh
+}
+.h2{background-color: green;
+	height: 7vh;
+	font-size: 5vh;
+	text-align: center;
+}
+img{ position: absolute;
+	margin: 0vh;
+	width: 7%;
+	top: 22vh;
+	right: 5vh;
+}
+#top{
+	display: none;
+}
